@@ -1,0 +1,19 @@
+.is-fullheight {
+  height: calc(100vh - 3rem);
+}
+
+.chats {
+  height: 73vh;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.chat-input-box {
+  width: 50vw;
+}
+
+.chat-message {
+  width: 50vw;
+  height: auto;
+}
